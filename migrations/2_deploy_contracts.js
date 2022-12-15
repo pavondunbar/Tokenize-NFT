@@ -2,7 +2,7 @@ const Macallan78N = artifacts.require("./Macallan78N");
 const Macallan78T = artifacts.require("./Macallan78T");
 
 module.exports = async function (deployer) {
-    const IPFS_IMAGE_METADATA_URI = 'https://gateway.pinata.cloud/ipfs/QmeAwqW5p3jPd5sqYnjxePzUTcRJJsC9Ss7QXvbfVF9Uth/'
+    const IPFS_IMAGE_METADATA_URI = 'PUT IPFS NFT METADATA URL HERE'
 
     // Deploy NFT collection first...
 
