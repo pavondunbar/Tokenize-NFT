@@ -1,2 +1,1 @@
-# Tokenize-NFT
-Smart Contract that tokenizes an exotic spirit
+All source code is located in the master branch
