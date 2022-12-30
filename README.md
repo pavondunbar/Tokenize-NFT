@@ -18,3 +18,5 @@ and 1 in the uint256 field). This function gives the TOKEN contract address appr
 7. Run the TOKEN convertToTokens(uint256) function. Put the ID number of the NFT in the "uint256" parameter (normally 1).
 
 The NFT will be converted to the ERC20 tokens you specified in the deployer.js migration file.
+
+DISCLAIMER: The contracts in this repository have not been audited. Use at your own risk. It is highly recommended you audit these contracts with an independent third party auditing company if you plan to use these contracts in a production environment where real crypto will be traded. By using these contracts, you hold me harmless from any liability or loss of funds that may result from improper use or modifications of these contracts.
